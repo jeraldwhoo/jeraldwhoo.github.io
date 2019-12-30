@@ -918,7 +918,7 @@ pre .javascript .function {
 .container {
   min-height: 100%;
   position: relative;
-  font-size: 0.75em;
+  font-size: 0.875em;
 }
 .main-inner {
   margin: 0 auto;
@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fad7ff;
+  background: #8ef094;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
